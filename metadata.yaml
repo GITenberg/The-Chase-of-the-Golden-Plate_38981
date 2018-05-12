@@ -1,0 +1,42 @@
+_repo: The-Chase-of-the-Golden-Plate_38981
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Poucher, E. A.
+    gutenberg_agent_id: '39755'
+    url: http://www.gutenberg.org/2009/agents/39755
+  - agent_name: Grefé, Will
+    alias: Grefe, Will
+    gutenberg_agent_id: '9414'
+    url: http://www.gutenberg.org/2009/agents/9414
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Futrelle, Jacques
+    birthdate: 1875
+    deathdate: 1912
+    gutenberg_agent_id: '3763'
+    url: http://www.gutenberg.org/2009/agents/3763
+    wikipedia: http://en.wikipedia.org/wiki/Jacques_Futrelle
+description: Part 1. The burglar and the girl -- pt. 2. The girl and the plate --
+  pt. 3. The thinking machine.
+gutenberg_issued: '2012-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38981'
+  lccn: 06039731
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Van Dusen, Augustus S. F. X. (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Robbery -- Fiction'
+- !lcsh 'Detective and mystery stories, American'
+tableOfContents: Part 1. The burglar and the girl -- Part 2. The girl and the plate
+  -- Part 3. The thinking machine.
+title: The Chase of the Golden Plate
+url: http://www.gutenberg.org/ebooks/38981
